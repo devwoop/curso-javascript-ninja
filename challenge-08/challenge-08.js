@@ -127,3 +127,5 @@ function myFunction() {
   console.log( 'DEPOIS DE DECLARAR', number1 );
 }
 console.log( myFunction());
+
+
